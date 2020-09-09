@@ -19,7 +19,7 @@ def remove_element_from_end_of_array(instruments)
 end
 
 def remove_element_from_start_of_array(instruments)
-  instruments.unshift
+  instruments.shift
 end
 
 def retrieve_element_from_index(array, index_number)
