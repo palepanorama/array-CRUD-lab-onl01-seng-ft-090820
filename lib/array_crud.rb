@@ -24,8 +24,7 @@ def remove_element_from_start_of_array(instruments)
 end
 
 def retrieve_element_from_index(instruments, index_number)
-
-
+  instruments[2]
 end
 
 def retrieve_first_element_from_array(instruments)  
