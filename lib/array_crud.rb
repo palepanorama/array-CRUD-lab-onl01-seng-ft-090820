@@ -23,7 +23,7 @@ def remove_element_from_start_of_array(instruments)
   instruments.shift
 end
 
-def retrieve_element_from_index(instruments, index number)
+def retrieve_element_from_index(instruments, 3)
 
 
 end
