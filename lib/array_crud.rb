@@ -22,11 +22,13 @@ def remove_element_from_start_of_array(instruments)
   instruments.shift
 end
 
-def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index(instruments, 3)
+  instruments[3]
 
 end
 
 def retrieve_first_element_from_array(instruments)  
+  instruments[0]
 end
 
 def retrieve_last_element_from_array(instruments)
