@@ -6,11 +6,11 @@ def create_an_array
   instruments = ["guitar", "bass", "piano", "drums"]
 end
 
-def add_element_to_end_of_array(instruments, violin)
+def add_element_to_end_of_array(instruments, element)
  instruments << "arrays!"
 end
 
-def add_element_to_start_of_array(array, element)
+def add_element_to_start_of_array(instruments, element)
   instruments.unshift("wow")
  
 end
