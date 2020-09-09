@@ -30,6 +30,7 @@ end
 def retrieve_first_element_from_array(instruments)  instruments[0]
 end
 
-def retrieve_last_element_from_array(array)
+def retrieve_last_element_from_array(instruments)
+  instruments[-1]
 
 end
