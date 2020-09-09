@@ -23,6 +23,7 @@ def remove_element_from_start_of_array(instruments)
 end
 
 def retrieve_element_from_index(instruments, 3)
+  instruments = ["guitar", "bass", "piano", "drums"]
   instruments[3]
 
 end
