@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(instruments, violin)
  instruments << "violin"
+ puts instruments.inspect
 end
 
 def add_element_to_start_of_array(array, element)
