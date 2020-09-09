@@ -22,8 +22,7 @@ def remove_element_from_start_of_array(instruments)
   instruments.shift
 end
 
-def retrieve_element_from_index(instruments, 3)
-  instruments = ["guitar", "bass", "piano", "drums"]
+def retrieve_element_from_index(instruments)
   instruments[3]
 
 end
