@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
  instruments = ["guitar", "bass", "piano", "drums"]
-  instruments.push("violin")
+  instruments 
 end
 
 def add_element_to_start_of_array(array, element)
