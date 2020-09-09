@@ -6,9 +6,7 @@ def create_an_array
   instruments = ["guitar", "bass", "piano", "drums"]
 end
 
-def add_element_to_end_of_array(instruments, "violin")
-  instruments = ["guitar", "bass", "piano", "drums"]
-  element = "violin"
+def add_element_to_end_of_array(instruments)
   instruments << "violin"
 end
 
