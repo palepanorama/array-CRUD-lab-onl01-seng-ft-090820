@@ -18,8 +18,8 @@ def remove_element_from_end_of_array(instruments)
   instruments.pop
 end
 
-def remove_element_from_start_of_array(array)
-
+def remove_element_from_start_of_array(instruments)
+  instruments.unshift
 end
 
 def retrieve_element_from_index(array, index_number)
